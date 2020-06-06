@@ -1,4 +1,4 @@
-# uweb前端vue项目eslint、stylelint以及一些项目要求说明文档
+# vue项目eslint、stylelint以及一些项目要求说明文档
 
 > 包含项目中的eslint、stylelint、editorconfig、gitignore配置文件，以及安装步骤
 
